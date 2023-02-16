@@ -1,0 +1,10 @@
+{
+    "daq": {
+        "range_": "+10v~-10v",
+        "trig_mode": "internal",
+        "trig_dir": "rising",
+        "os_": 1,
+        "period": 500,
+        "cycles": 20000
+    }
+}
